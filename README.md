@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=100&lines=ML+Engineer+%7C+Backend+Dev+%7C+AI+Enthusiast;Building+ML-powered+intelligent+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=100&lines=ML+Engineer+%7C+Backend+Dev+%7C+AI+Enthusiast;Building+ML-powered+systems+%26+solutions" alt="Typing Animation" />
 
 # 🚀 Nersi Sai Venkata Sanjeev *Reddy*
 
@@ -29,7 +29,7 @@
 
 > *"Turning data into decisions and ideas into products."*
 
-CS graduate passionate about building **ML-powered backend systems** and **data-driven applications** that solve real-world problems. I transform messy datasets into clean, actionable insights and ship production-grade solutions.
+CS graduate passionate about building **ML-powered backend systems** and **data-driven applications** that solve real-world problems. I transform messy datasets into clean, actionable insights and ship products that matter.
 
 </div>
 <div style="padding: 20px; background: rgba(52,211,153,0.05); border-radius: 12px; border: 2px solid rgba(52,211,153,0.3);">
@@ -60,7 +60,7 @@ Debug with `print()` — it's a lifestyle! 🐛
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; margin: 20px 0;">
 
 <!-- Languages Column -->
-<div style="padding: 25px; background: linear-gradient(180deg, rgba(196,181,253,0.1) 0%, rgba(167,139,250,0.05) 100%); border-radius: 12px; border-top: 3px solid #c4b5fd; border: 2px solid rgba(196,181,253,0.3);">
+<div style="padding: 25px; background: linear-gradient(180deg, rgba(196,181,253,0.1) 0%, rgba(167,139,250,0.05) 100%); border-radius: 12px; border-top: 3px solid #c4b5fd; border: 2px solid rgba(196,181,253,0.4);">
 
 ### 🔤 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -73,7 +73,7 @@ Debug with `print()` — it's a lifestyle! 🐛
 </div>
 
 <!-- AI/ML Column -->
-<div style="padding: 25px; background: linear-gradient(180deg, rgba(110,231,183,0.1) 0%, rgba(52,211,153,0.05) 100%); border-radius: 12px; border-top: 3px solid #6ee7b7; border: 2px solid rgba(110,231,183,0.3);">
+<div style="padding: 25px; background: linear-gradient(180deg, rgba(110,231,183,0.1) 0%, rgba(52,211,153,0.05) 100%); border-radius: 12px; border-top: 3px solid #6ee7b7; border: 2px solid rgba(110,231,183,0.4);">
 
 ### 🤖 AI/ML/Data
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -86,7 +86,7 @@ Debug with `print()` — it's a lifestyle! 🐛
 </div>
 
 <!-- Tools Column -->
-<div style="padding: 25px; background: linear-gradient(180deg, rgba(249,168,212,0.1) 0%, rgba(236,72,153,0.05) 100%); border-radius: 12px; border-top: 3px solid #f9a8d4; border: 2px solid rgba(249,168,212,0.3);">
+<div style="padding: 25px; background: linear-gradient(180deg, rgba(249,168,212,0.1) 0%, rgba(236,72,153,0.05) 100%); border-radius: 12px; border-top: 3px solid #f9a8d4; border: 2px solid rgba(249,168,212,0.4);">
 
 ### ⚙️ Tools & Platforms
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -111,7 +111,7 @@ Debug with `print()` — it's a lifestyle! 🐛
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 25px; margin: 20px 0;">
 
 <!-- Project 1 -->
-<div style="padding: 25px; background: linear-gradient(135deg, rgba(167,139,250,0.15) 0%, rgba(52,211,153,0.08) 100%); border-radius: 15px; border: 2px solid rgba(167,139,250,0.4);">
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(167,139,250,0.15) 0%, rgba(52,211,153,0.08) 100%); border-radius: 15px; border: 3px solid #a78bfa; box-shadow: 0 4px 15px rgba(167,139,250,0.2);">
 
 ### ⚖️ [LexConnect](https://github.com/sanjeev-reddy-13/LexConnect)
 
@@ -128,7 +128,7 @@ _Seamlessly connect clients with legal professionals._
 </div>
 
 <!-- Project 2 -->
-<div style="padding: 25px; background: linear-gradient(135deg, rgba(52,211,153,0.15) 0%, rgba(110,231,183,0.08) 100%); border-radius: 15px; border: 2px solid rgba(52,211,153,0.4);">
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(52,211,153,0.15) 0%, rgba(110,231,183,0.08) 100%); border-radius: 15px; border: 3px solid #34d399; box-shadow: 0 4px 15px rgba(52,211,153,0.2);">
 
 ### 📈 [Stock Market Prediction](https://github.com/sanjeev-reddy-13/Stockmarket-Price-Prediction-with-sentimental-analysis)
 
@@ -145,7 +145,7 @@ Advanced ML model combining **sentiment analysis** with price forecasting for co
 </div>
 
 <!-- Project 3 -->
-<div style="padding: 25px; background: linear-gradient(135deg, rgba(249,168,212,0.15) 0%, rgba(236,72,153,0.08) 100%); border-radius: 15px; border: 2px solid rgba(249,168,212,0.4);">
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(249,168,212,0.15) 0%, rgba(236,72,153,0.08) 100%); border-radius: 15px; border: 3px solid #f472b6; box-shadow: 0 4px 15px rgba(249,168,212,0.2);">
 
 ### 🍽️ [RestaurantFinder](https://github.com/sanjeev-reddy-13/RestaurantFinder)
 
@@ -162,7 +162,7 @@ Interactive web app with **smart filtering**, geolocation, and real-time discove
 </div>
 
 <!-- Project 4 -->
-<div style="padding: 25px; background: linear-gradient(135deg, rgba(167,139,250,0.08) 0%, rgba(249,168,212,0.15) 100%); border-radius: 15px; border: 2px solid rgba(167,139,250,0.4);">
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(167,139,250,0.08) 0%, rgba(249,168,212,0.15) 100%); border-radius: 15px; border: 3px solid #ec4899; box-shadow: 0 4px 15px rgba(236,72,153,0.2);">
 
 ### ✈️ [Flight Price Prediction](https://github.com/sanjeev-reddy-13/Flight_price_prediction)
 
@@ -254,7 +254,7 @@ Demonstrated expertise in administering ServiceNow platform at enterprise scale.
 
 <div align="center" style="margin: 30px 0; padding: 20px; background: rgba(167,139,250,0.05); border-radius: 12px; border: 2px solid rgba(167,139,250,0.3);">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjeev-reddy-13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=a0c4ff&icon_color=8b5cf6&text_color=c9d1d9&bg_color=13131a)](https://github.com/sanjeev-reddy-13)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjeev-reddy-13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=a0c4ff&icon_color=a0c4ff&text_color=c9d1d9&bg_color=13131a)](https://github.com/sanjeev-reddy-13)
 
 </div>
 
