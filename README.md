@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=100&lines=ML+Engineer+%7C+Backend+Dev+%7C+AI+Enthusiast;Building+ML-powered+Systems+%26+Data-Driven+Apps" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=100&lines=ML+Engineer+%7C+Backend+Dev+%7C+AI+Enthusiast;Building+ML-powered+intelligent+systems" alt="Typing SVG" />
 
 # 🚀 Nersi Sai Venkata Sanjeev *Reddy*
 
@@ -20,17 +20,19 @@
 
 ---
 
+<div style="padding: 30px; background: linear-gradient(135deg, rgba(167,139,250,0.1) 0%, rgba(52,211,153,0.1) 100%); border-radius: 15px; border: 2px solid rgba(167,139,250,0.4); margin: 30px 0;">
+
 ## 👤 About Me
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 30px 0;">
-<div style="padding: 20px; background: linear-gradient(135deg, rgba(167,139,250,0.1) 0%, rgba(52,211,153,0.1) 100%); border-radius: 12px; border-left: 4px solid #a78bfa;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
+<div style="padding: 20px; background: linear-gradient(135deg, rgba(167,139,250,0.1) 0%, rgba(52,211,153,0.1) 100%); border-radius: 12px; border-left: 4px solid #a78bfa; border: 2px solid rgba(167,139,250,0.3);">
 
 > *"Turning data into decisions and ideas into products."*
 
-CS graduate passionate about building **ML-powered backend systems** and **data-driven applications** that solve real-world problems. I transform messy datasets into clean, actionable insights and ship robust APIs.
+CS graduate passionate about building **ML-powered backend systems** and **data-driven applications** that solve real-world problems. I transform messy datasets into clean, actionable insights and ship production-grade solutions.
 
 </div>
-<div style="padding: 20px; background: rgba(52,211,153,0.05); border-radius: 12px;">
+<div style="padding: 20px; background: rgba(52,211,153,0.05); border-radius: 12px; border: 2px solid rgba(52,211,153,0.3);">
 
 **🟣 EDUCATION**  
 B.Tech, Computer Science (AI & ML Specialization)
@@ -47,14 +49,18 @@ Debug with `print()` — it's a lifestyle! 🐛
 </div>
 </div>
 
+</div>
+
 ---
+
+<div style="padding: 30px; background: linear-gradient(135deg, rgba(110,231,183,0.1) 0%, rgba(52,211,153,0.1) 100%); border-radius: 15px; border: 2px solid rgba(52,211,153,0.4); margin: 30px 0;">
 
 ## 🛠️ Tech Stack
 
-<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; margin: 30px 0;">
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; margin: 20px 0;">
 
 <!-- Languages Column -->
-<div style="padding: 25px; background: linear-gradient(180deg, rgba(196,181,253,0.1) 0%, rgba(167,139,250,0.05) 100%); border-radius: 12px; border-top: 3px solid #c4b5fd;">
+<div style="padding: 25px; background: linear-gradient(180deg, rgba(196,181,253,0.1) 0%, rgba(167,139,250,0.05) 100%); border-radius: 12px; border-top: 3px solid #c4b5fd; border: 2px solid rgba(196,181,253,0.3);">
 
 ### 🔤 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -67,7 +73,7 @@ Debug with `print()` — it's a lifestyle! 🐛
 </div>
 
 <!-- AI/ML Column -->
-<div style="padding: 25px; background: linear-gradient(180deg, rgba(110,231,183,0.1) 0%, rgba(52,211,153,0.05) 100%); border-radius: 12px; border-top: 3px solid #6ee7b7;">
+<div style="padding: 25px; background: linear-gradient(180deg, rgba(110,231,183,0.1) 0%, rgba(52,211,153,0.05) 100%); border-radius: 12px; border-top: 3px solid #6ee7b7; border: 2px solid rgba(110,231,183,0.3);">
 
 ### 🤖 AI/ML/Data
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -80,7 +86,7 @@ Debug with `print()` — it's a lifestyle! 🐛
 </div>
 
 <!-- Tools Column -->
-<div style="padding: 25px; background: linear-gradient(180deg, rgba(249,168,212,0.1) 0%, rgba(236,72,153,0.05) 100%); border-radius: 12px; border-top: 3px solid #f9a8d4;">
+<div style="padding: 25px; background: linear-gradient(180deg, rgba(249,168,212,0.1) 0%, rgba(236,72,153,0.05) 100%); border-radius: 12px; border-top: 3px solid #f9a8d4; border: 2px solid rgba(249,168,212,0.3);">
 
 ### ⚙️ Tools & Platforms
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -94,14 +100,18 @@ Debug with `print()` — it's a lifestyle! 🐛
 
 </div>
 
+</div>
+
 ---
+
+<div style="padding: 30px; background: linear-gradient(135deg, rgba(167,139,250,0.1) 0%, rgba(249,168,212,0.1) 100%); border-radius: 15px; border: 2px solid rgba(167,139,250,0.4); margin: 30px 0;">
 
 ## 🎯 Featured Projects
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 25px; margin: 30px 0;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 25px; margin: 20px 0;">
 
 <!-- Project 1 -->
-<div style="padding: 25px; background: linear-gradient(135deg, rgba(167,139,250,0.15) 0%, rgba(52,211,153,0.08) 100%); border-radius: 15px; border-left: 5px solid #a78bfa; hover:box-shadow: 0 8px 32px rgba(167,139,250,0.2);">
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(167,139,250,0.15) 0%, rgba(52,211,153,0.08) 100%); border-radius: 15px; border: 2px solid rgba(167,139,250,0.4);">
 
 ### ⚖️ [LexConnect](https://github.com/sanjeev-reddy-13/LexConnect)
 
@@ -118,7 +128,7 @@ _Seamlessly connect clients with legal professionals._
 </div>
 
 <!-- Project 2 -->
-<div style="padding: 25px; background: linear-gradient(135deg, rgba(52,211,153,0.15) 0%, rgba(110,231,183,0.08) 100%); border-radius: 15px; border-left: 5px solid #6ee7b7; hover:box-shadow: 0 8px 32px rgba(52,211,153,0.2);">
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(52,211,153,0.15) 0%, rgba(110,231,183,0.08) 100%); border-radius: 15px; border: 2px solid rgba(52,211,153,0.4);">
 
 ### 📈 [Stock Market Prediction](https://github.com/sanjeev-reddy-13/Stockmarket-Price-Prediction-with-sentimental-analysis)
 
@@ -135,7 +145,7 @@ Advanced ML model combining **sentiment analysis** with price forecasting for co
 </div>
 
 <!-- Project 3 -->
-<div style="padding: 25px; background: linear-gradient(135deg, rgba(249,168,212,0.15) 0%, rgba(236,72,153,0.08) 100%); border-radius: 15px; border-left: 5px solid #f9a8d4; hover:box-shadow: 0 8px 32px rgba(249,168,212,0.2);">
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(249,168,212,0.15) 0%, rgba(236,72,153,0.08) 100%); border-radius: 15px; border: 2px solid rgba(249,168,212,0.4);">
 
 ### 🍽️ [RestaurantFinder](https://github.com/sanjeev-reddy-13/RestaurantFinder)
 
@@ -152,7 +162,7 @@ Interactive web app with **smart filtering**, geolocation, and real-time discove
 </div>
 
 <!-- Project 4 -->
-<div style="padding: 25px; background: linear-gradient(135deg, rgba(167,139,250,0.08) 0%, rgba(249,168,212,0.15) 100%); border-radius: 15px; border-left: 5px solid #c4b5fd; hover:box-shadow: 0 8px 32px rgba(167,139,250,0.2);">
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(167,139,250,0.08) 0%, rgba(249,168,212,0.15) 100%); border-radius: 15px; border: 2px solid rgba(167,139,250,0.4);">
 
 ### ✈️ [Flight Price Prediction](https://github.com/sanjeev-reddy-13/Flight_price_prediction)
 
@@ -170,13 +180,15 @@ ML-powered **price forecasting** using advanced feature engineering to find the 
 
 </div>
 
+</div>
+
 ---
+
+<div style="padding: 30px; background: linear-gradient(135deg, rgba(52,211,153,0.1) 0%, rgba(167,139,250,0.1) 100%); border-radius: 15px; border: 2px solid rgba(52,211,153,0.4); margin: 30px 0;">
 
 ## 🏆 Certifications & Achievements
 
-<div style="padding: 30px; background: linear-gradient(135deg, rgba(52,211,153,0.1) 0%, rgba(167,139,250,0.1) 100%); border-radius: 15px; border: 2px solid rgba(52,211,153,0.3); margin: 30px 0;">
-
-<div style="display: grid; grid-template-columns: auto 1fr; gap: 25px; align-items: center;">
+<div style="display: grid; grid-template-columns: auto 1fr; gap: 25px; align-items: center; padding: 20px; background: rgba(255,255,255,0.02); border-radius: 12px; border: 2px solid rgba(167,139,250,0.3);">
 
 <div style="text-align: center;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/ServiceNow_logo.svg" width="85" alt="ServiceNow Logo" style="filter: brightness(1.1);"/>
@@ -208,11 +220,13 @@ Demonstrated expertise in administering ServiceNow platform at enterprise scale.
 
 ---
 
+<div style="padding: 30px; background: linear-gradient(135deg, rgba(196,181,253,0.1) 0%, rgba(110,231,183,0.1) 100%); border-radius: 15px; border: 2px solid rgba(196,181,253,0.4); margin: 30px 0;">
+
 ## 📊 GitHub Analytics
 
-<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px; margin: 30px 0;">
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px; margin: 20px 0;">
 
-<div style="padding: 20px; background: linear-gradient(135deg, #a78bfa 0%, #c4b5fd 100%); border-radius: 12px; text-align: center; color: white;">
+<div style="padding: 20px; background: linear-gradient(135deg, #a78bfa 0%, #c4b5fd 100%); border-radius: 12px; text-align: center; color: white; border: 2px solid rgba(167,139,250,0.5);">
 
 ### 📈 Total Contributions
 <h2 style="margin: 10px 0; font-size: 2.5em;">76</h2>
@@ -220,7 +234,7 @@ Demonstrated expertise in administering ServiceNow platform at enterprise scale.
 
 </div>
 
-<div style="padding: 20px; background: linear-gradient(135deg, #34d399 0%, #6ee7b7 100%); border-radius: 12px; text-align: center; color: white;">
+<div style="padding: 20px; background: linear-gradient(135deg, #34d399 0%, #6ee7b7 100%); border-radius: 12px; text-align: center; color: white; border: 2px solid rgba(52,211,153,0.5);">
 
 ### 🔥 Current Streak
 <h2 style="margin: 10px 0; font-size: 2.5em;">3</h2>
@@ -228,7 +242,7 @@ Demonstrated expertise in administering ServiceNow platform at enterprise scale.
 
 </div>
 
-<div style="padding: 20px; background: linear-gradient(135deg, #f472b6 0%, #f9a8d4 100%); border-radius: 12px; text-align: center; color: white;">
+<div style="padding: 20px; background: linear-gradient(135deg, #f472b6 0%, #f9a8d4 100%); border-radius: 12px; text-align: center; color: white; border: 2px solid rgba(249,168,212,0.5);">
 
 ### ⭐ Longest Streak
 <h2 style="margin: 10px 0; font-size: 2.5em;">3</h2>
@@ -238,23 +252,25 @@ Demonstrated expertise in administering ServiceNow platform at enterprise scale.
 
 </div>
 
-<div align="center" style="margin: 30px 0;">
+<div align="center" style="margin: 30px 0; padding: 20px; background: rgba(167,139,250,0.05); border-radius: 12px; border: 2px solid rgba(167,139,250,0.3);">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjeev-reddy-13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=a0c4ff&icon_color=8bd3f0&text_color=c9d1d9&bg_color=13131a)](https://github.com/sanjeev-reddy-13)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjeev-reddy-13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=a0c4ff&icon_color=8b5cf6&text_color=c9d1d9&bg_color=13131a)](https://github.com/sanjeev-reddy-13)
 
 </div>
 
-<div align="center">
+<div align="center" style="padding: 20px; background: rgba(52,211,153,0.05); border-radius: 12px; border: 2px solid rgba(52,211,153,0.3);">
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev-reddy-13&layout=compact&theme=tokyonight&hide_border=true&title_color=a0c4ff&text_color=c9d1d9&bg_color=13131a)](https://github.com/sanjeev-reddy-13)
 
 </div>
 
+</div>
+
 ---
 
-## 🚀 Let's Connect & Collaborate
-
 <div style="padding: 40px 30px; background: linear-gradient(135deg, rgba(167,139,250,0.15) 0%, rgba(52,211,153,0.1) 100%); border-radius: 18px; border: 2px solid rgba(167,139,250,0.4); text-align: center; margin: 30px 0;">
+
+## 🚀 Let's Connect & Collaborate
 
 ### 🎯 Available for Full-Time Roles
 
