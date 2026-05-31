@@ -8,9 +8,9 @@
 
 </sub>
 
-# Sanjeev *Reddy*
+# Nersi Sai Venkata Sanjeev *Reddy*
 
-### CS Graduate from Hyderabad — building ML-powered systems and data-driven applications that actually solve problems.
+### Computer Science Graduate (Specialized in AIML) — building ML-powered systems and data-driven applications that actually solve problems.
 
 <br>
 
@@ -34,7 +34,7 @@
 
 > *"Turning data into decisions and ideas into products."*
 
-CS graduate from Hyderabad who loves building ML-powered backend systems and data-driven applications. I dig into messy datasets, train models, and ship clean APIs that solve real problems.
+Computer Science graduate who loves building ML-powered backend systems and data-driven applications. I dig into messy datasets, train models, and ship clean APIs that solve real problems.
 
 <br>
 
@@ -275,7 +275,7 @@ If you think I'd be a good fit for your team — let's talk! 🚀
 
 <div align="center">
 
-**[sanjeev.reddy2004@gmail.com](mailto:sanjeev.reddy2004@gmail.com)** &nbsp;·&nbsp; **Hyderabad, India** 🇮🇳
+**[sanjeev.reddy2004@gmail.com](mailto:sanjeev.reddy2004@gmail.com)** &nbsp;·&nbsp; **Visakhapatnam, India** 🇮🇳
 
 <sub>⭐ If you like my work, don't forget to star my repos!</sub>
 
