@@ -55,9 +55,9 @@ Computer Science graduate who loves building ML-powered backend systems and data
 
 ## `02` Tech stack
 
-<table>
+<table style="border-collapse: collapse; border: 2px solid #a78bfa; border-radius: 12px; overflow: hidden;">
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" style="border-right: 2px solid #a78bfa; padding: 20px;">
 
 **LANGUAGES**
 
@@ -69,7 +69,7 @@ Computer Science graduate who loves building ML-powered backend systems and data
 ![CSS](https://img.shields.io/badge/CSS-c4b5fd?style=flat-square&logo=css3&logoColor=1a1a2e)
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" style="border-right: 2px solid #a78bfa; padding: 20px;">
 
 **AI / ML / DATA**
 
@@ -77,14 +77,19 @@ Computer Science graduate who loves building ML-powered backend systems and data
 ![Pandas](https://img.shields.io/badge/Pandas-6ee7b7?style=flat-square&logo=pandas&logoColor=0d2c1e)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-6ee7b7?style=flat-square&logo=scikitlearn&logoColor=0d2c1e)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-6ee7b7?style=flat-square&logo=tensorflow&logoColor=0d2c1e)
+![Keras](https://img.shields.io/badge/Keras-6ee7b7?style=flat-square&logo=keras&logoColor=0d2c1e)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-6ee7b7?style=flat-square&logo=python&logoColor=0d2c1e)
+![LLM](https://img.shields.io/badge/LLM-6ee7b7?style=flat-square&logoColor=0d2c1e)
+![RAG](https://img.shields.io/badge/RAG-6ee7b7?style=flat-square&logoColor=0d2c1e)
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" style="padding: 20px;">
 
 **TOOLS & PLATFORMS**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-f9a8d4?style=flat-square&logo=fastapi&logoColor=2d0a18)
+![REST APIs](https://img.shields.io/badge/REST_APIs-f9a8d4?style=flat-square&logoColor=2d0a18)
+![Docker](https://img.shields.io/badge/Docker-f9a8d4?style=flat-square&logo=docker&logoColor=2d0a18)
 ![MySQL](https://img.shields.io/badge/MySQL-f9a8d4?style=flat-square&logo=mysql&logoColor=2d0a18)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-f9a8d4?style=flat-square&logo=servicenow&logoColor=2d0a18)
 ![Git](https://img.shields.io/badge/Git-f9a8d4?style=flat-square&logo=git&logoColor=2d0a18)
@@ -174,9 +179,9 @@ ML model forecasting airline ticket prices using advanced feature engineering �
 
 ## `04` Certifications
 
-<table>
+<table style="border-collapse: collapse; border: 2px solid #34d399; border-radius: 12px; overflow: hidden;">
 <tr>
-<td width="120" align="center" valign="top">
+<td width="120" align="center" valign="top" style="border-right: 2px solid #34d399; padding: 20px;">
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/ServiceNow_logo.svg" width="80" alt="ServiceNow Logo"/>
 <br><br>
@@ -184,7 +189,7 @@ ML model forecasting airline ticket prices using advanced feature engineering �
 <b>Certified System Administrator</b><br>
 <code>CSA</code>
 </td>
-<td valign="top">
+<td valign="top" style="padding: 20px;">
 <br>
 
 ![Verified](https://img.shields.io/badge/✓_Verified-0d2c1e?style=flat-square&color=0d2c1e&labelColor=0d2c1e&logoColor=34d399)
@@ -236,9 +241,11 @@ Demonstrates expertise in administering and configuring the ServiceNow platform 
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanjeev-reddy-13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=a0c4ff&icon_color=8b5cf6&text_color=c9d1d9&bg_color=13131a" alt="GitHub Stats" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev-reddy-13&layout=compact&theme=tokyonight&hide_border=true&title_color=a0c4ff&text_color=c9d1d9&bg_color=13131a" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=sanjeev-reddy-13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=a0c4ff&icon_color=a78bfa&text_color=c9d1d9&bg_color=13131a" alt="GitHub Stats" width="100%"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev-reddy-13&layout=compact&theme=tokyonight&hide_border=true&title_color=a0c4ff&text_color=c9d1d9&bg_color=13131a" alt="Top Languages" width="100%"/>
 
 </div>
 
@@ -246,9 +253,7 @@ Demonstrates expertise in administering and configuring the ServiceNow platform 
 
 ## `06` Let's connect
 
-<table>
-<tr>
-<td valign="middle" width="55%">
+<div align="center" style="border: 2px solid #a78bfa; border-radius: 12px; padding: 30px; background: rgba(167, 139, 250, 0.05);">
 
 <sub><code>// AVAILABLE FOR HIRE</code></sub>
 
@@ -258,8 +263,7 @@ I'm actively looking for full-time roles in **ML Engineering**, **Backend Develo
 
 If you think I'd be a good fit for your team — let's talk! 🚀
 
-</td>
-<td valign="middle" width="45%" align="center">
+<br>
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=0c0c10)](https://www.linkedin.com/in/nersi-sai-venkata-sanjeev-reddy-a8b7772/)
 
@@ -267,9 +271,7 @@ If you think I'd be a good fit for your team — let's talk! 🚀
 
 [![See my work](https://img.shields.io/badge/See_my_work-1a1a24?style=for-the-badge&logo=vercel&logoColor=f0eff5)](https://sanjeev-reddy-13.github.io/MyPortfolio_website)
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
