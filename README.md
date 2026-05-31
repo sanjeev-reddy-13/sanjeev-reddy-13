@@ -38,11 +38,11 @@ Computer Science graduate who loves building ML-powered backend systems and data
 
 <br>
 
-🟣 **EDUCATION** — B.Tech, Computer Science — Recent Graduate
+🟣 **EDUCATION** — B.Tech, Computer Science Engineering (Specialization in Artificial Intelligence & Machine Learning)
 
 🟢 **BUILDING** — AI/ML projects & backend APIs
 
-🔵 **LEARNING** — Deep Learning · NLP · System Design
+🔵 **LEARNING** — Machine Learning · Deep Learning · NLP · System Design
 
 🩷 **FUN FACT** — I debug with `print()` — no regrets
 
