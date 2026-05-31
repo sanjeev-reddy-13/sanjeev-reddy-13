@@ -47,18 +47,7 @@ CS graduate from Hyderabad who loves building ML-powered backend systems and dat
 🩷 **FUN FACT** — I debug with `print()` — no regrets
 
 </td>
-<td width="45%" valign="top">
 
-**INTERESTS**
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-13131a?style=flat-square&logoColor=white)
-![Backend Dev](https://img.shields.io/badge/Backend_Dev-13131a?style=flat-square)
-![Data Science](https://img.shields.io/badge/Data_Science-13131a?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-13131a?style=flat-square)
-![AI/ML](https://img.shields.io/badge/AI%2FML-13131a?style=flat-square)
-![System Design](https://img.shields.io/badge/System_Design-13131a?style=flat-square)
-
-</td>
 </tr>
 </table>
 
