@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=100&lines=ML+Engineer+%7C+Backend+Dev+%7C+AI+Enthusiast;Building+ML-powered+systems+%26+solutions" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=100&lines=ML+Engineer+%7C+Backend+Dev+%7C+AI+Enthusiast;Building+ML-Powered+Intelligent+Systems;Data+Scientist+%7C+Problem+Solver"
 
 # 🚀 Nersi Sai Venkata Sanjeev *Reddy*
 
@@ -29,7 +29,7 @@
 
 > *"Turning data into decisions and ideas into products."*
 
-CS graduate passionate about building **ML-powered backend systems** and **data-driven applications** that solve real-world problems. I transform messy datasets into clean, actionable insights and ship products that matter.
+CS graduate passionate about building **ML-powered backend systems** and **data-driven applications** that solve real-world problems. I transform messy datasets into clean, actionable insights and build scalable systems that actually matter.
 
 </div>
 <div style="padding: 20px; background: rgba(52,211,153,0.05); border-radius: 12px; border: 2px solid rgba(52,211,153,0.3);">
@@ -111,7 +111,7 @@ Debug with `print()` — it's a lifestyle! 🐛
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 25px; margin: 20px 0;">
 
 <!-- Project 1 -->
-<div style="padding: 25px; background: linear-gradient(135deg, rgba(167,139,250,0.15) 0%, rgba(52,211,153,0.08) 100%); border-radius: 15px; border: 3px solid #a78bfa; box-shadow: 0 4px 15px rgba(167,139,250,0.2);">
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(167,139,250,0.15) 0%, rgba(52,211,153,0.08) 100%); border-radius: 15px; border: 4px solid #a78bfa; box-shadow: 0 4px 15px rgba(167,139,250,0.2), inset 0 0 0 1px rgba(167,139,250,0.3); transition: all 0.3s ease;">
 
 ### ⚖️ [LexConnect](https://github.com/sanjeev-reddy-13/LexConnect)
 
@@ -128,7 +128,7 @@ _Seamlessly connect clients with legal professionals._
 </div>
 
 <!-- Project 2 -->
-<div style="padding: 25px; background: linear-gradient(135deg, rgba(52,211,153,0.15) 0%, rgba(110,231,183,0.08) 100%); border-radius: 15px; border: 3px solid #34d399; box-shadow: 0 4px 15px rgba(52,211,153,0.2);">
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(52,211,153,0.15) 0%, rgba(110,231,183,0.08) 100%); border-radius: 15px; border: 4px solid #34d399; box-shadow: 0 4px 15px rgba(52,211,153,0.2), inset 0 0 0 1px rgba(52,211,153,0.3); transition: all 0.3s ease;">
 
 ### 📈 [Stock Market Prediction](https://github.com/sanjeev-reddy-13/Stockmarket-Price-Prediction-with-sentimental-analysis)
 
@@ -145,7 +145,7 @@ Advanced ML model combining **sentiment analysis** with price forecasting for co
 </div>
 
 <!-- Project 3 -->
-<div style="padding: 25px; background: linear-gradient(135deg, rgba(249,168,212,0.15) 0%, rgba(236,72,153,0.08) 100%); border-radius: 15px; border: 3px solid #f472b6; box-shadow: 0 4px 15px rgba(249,168,212,0.2);">
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(249,168,212,0.15) 0%, rgba(236,72,153,0.08) 100%); border-radius: 15px; border: 4px solid #f472b6; box-shadow: 0 4px 15px rgba(249,168,212,0.2), inset 0 0 0 1px rgba(249,168,212,0.3); transition: all 0.3s ease;">
 
 ### 🍽️ [RestaurantFinder](https://github.com/sanjeev-reddy-13/RestaurantFinder)
 
@@ -162,7 +162,7 @@ Interactive web app with **smart filtering**, geolocation, and real-time discove
 </div>
 
 <!-- Project 4 -->
-<div style="padding: 25px; background: linear-gradient(135deg, rgba(167,139,250,0.08) 0%, rgba(249,168,212,0.15) 100%); border-radius: 15px; border: 3px solid #ec4899; box-shadow: 0 4px 15px rgba(236,72,153,0.2);">
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(167,139,250,0.08) 0%, rgba(249,168,212,0.15) 100%); border-radius: 15px; border: 4px solid #ec4899; box-shadow: 0 4px 15px rgba(236,72,153,0.2), inset 0 0 0 1px rgba(236,72,153,0.3); transition: all 0.3s ease;">
 
 ### ✈️ [Flight Price Prediction](https://github.com/sanjeev-reddy-13/Flight_price_prediction)
 
@@ -254,13 +254,13 @@ Demonstrated expertise in administering ServiceNow platform at enterprise scale.
 
 <div align="center" style="margin: 30px 0; padding: 20px; background: rgba(167,139,250,0.05); border-radius: 12px; border: 2px solid rgba(167,139,250,0.3);">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjeev-reddy-13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=a0c4ff&icon_color=a0c4ff&text_color=c9d1d9&bg_color=13131a)](https://github.com/sanjeev-reddy-13)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjeev-reddy-13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=a0c4ff&text_color=c9d1d9&bg_color=13111c)](https://github.com/sanjeev-reddy-13)
 
 </div>
 
 <div align="center" style="padding: 20px; background: rgba(52,211,153,0.05); border-radius: 12px; border: 2px solid rgba(52,211,153,0.3);">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev-reddy-13&layout=compact&theme=tokyonight&hide_border=true&title_color=a0c4ff&text_color=c9d1d9&bg_color=13131a)](https://github.com/sanjeev-reddy-13)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev-reddy-13&layout=compact&theme=tokyonight&hide_border=true&title_color=a0c4ff&text_color=c9d1d9&bg_color=13111c)](https://github.com/sanjeev-reddy-13)
 
 </div>
 
