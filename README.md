@@ -14,8 +14,8 @@
 
 <br>
 
-[![Open to work](https://img.shields.io/badge/●_Open_to_work-0d1117?style=for-the-badge&labelColor=0d1117&color=34d399&logoColor=34d399)](https://www.linkedin.com/in/nersi-sai-venkata-sanjeev-reddy-a8b777291/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/nersi-sai-venkata-sanjeev-reddy-a8b777291/)
+[![Open to work](https://img.shields.io/badge/●_Open_to_work-0d1117?style=for-the-badge&labelColor=0d1117&color=34d399&logoColor=34d399)](https://www.linkedin.com/in/nersi-sai-venkata-sanjeev-reddy-a8b7772/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/nersi-sai-venkata-sanjeev-reddy-a8b7772/)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:sanjeev.reddy2004@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=f0eff5)](https://sanjeev-reddy-13.github.io/MyPortfolio_website)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=f0eff5)](https://github.com/sanjeev-reddy-13)
@@ -116,18 +116,27 @@ CS graduate from Hyderabad who loves building ML-powered backend systems and dat
 
 ### ⚖️ [LexConnect](https://github.com/sanjeev-reddy-13/LexConnect) ↗
 
-Legal services platform connecting clients with lawyers. Backend-driven architecture for seamless professional-to-client matching.
+_Legal services platform connecting clients with lawyers._
+
+Backend-driven architecture for seamless professional-to-client matching and appointment scheduling.
+
+**Tech Stack:**
 
 ![Python](https://img.shields.io/badge/Python-1a1a24?style=flat-square&logoColor=white)
 ![Backend](https://img.shields.io/badge/Backend-1a1a24?style=flat-square)
 ![API](https://img.shields.io/badge/API-1a1a24?style=flat-square)
+![Database](https://img.shields.io/badge/Database-1a1a24?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
 ### 📈 [Stock Market Prediction](https://github.com/sanjeev-reddy-13/Stockmarket-Price-Prediction-with-sentimental-analysis) ↗
 
+_Predict tomorrow's trends, today._
+
 Predicts stock prices using ML combined with sentiment analysis on news data for smarter, context-aware forecasting.
+
+**Tech Stack:**
 
 ![Python](https://img.shields.io/badge/Python-1a1a24?style=flat-square)
 ![NLP](https://img.shields.io/badge/NLP-1a1a24?style=flat-square)
@@ -141,22 +150,32 @@ Predicts stock prices using ML combined with sentiment analysis on news data for
 
 ### 🍽️ [RestaurantFinder](https://github.com/sanjeev-reddy-13/RestaurantFinder) ↗
 
+_Discover your next favorite meal._
+
 Smart web app to discover and filter nearby restaurants. Clean UI with real-time filtering for a frictionless user experience.
+
+**Tech Stack:**
 
 ![HTML](https://img.shields.io/badge/HTML-1a1a24?style=flat-square)
 ![CSS](https://img.shields.io/badge/CSS-1a1a24?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a24?style=flat-square)
+![Geolocation](https://img.shields.io/badge/Geolocation-1a1a24?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
 ### ✈️ [Flight Price Prediction](https://github.com/sanjeev-reddy-13/Flight_price_prediction) ↗
 
+_Book smart, travel cheaper._
+
 ML model forecasting airline ticket prices using advanced feature engineering — helping travelers find the best time to book.
+
+**Tech Stack:**
 
 ![Python](https://img.shields.io/badge/Python-1a1a24?style=flat-square)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1a1a24?style=flat-square)
 ![Feature Eng.](https://img.shields.io/badge/Feature_Eng.-1a1a24?style=flat-square)
+![Regression](https://img.shields.io/badge/Regression-1a1a24?style=flat-square)
 
 </td>
 </tr>
@@ -228,9 +247,9 @@ Demonstrates expertise in administering and configuring the ServiceNow platform 
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanjeev-reddy-13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=a0c4ff&icon_color=79c0ff&text_color=c9d1d9&bg_color=13131a" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sanjeev-reddy-13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=a0c4ff&icon_color=8b5cf6&text_color=c9d1d9&bg_color=13131a" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev-reddy-13&layout=compact&theme=tokyonight&hide_border=true&title_color=a0c4ff&text_color=c9d1d9&bg_color=13131a" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev-reddy-13&layout=compact&theme=tokyonight&hide_border=true&title_color=a0c4ff&text_color=c9d1d9&bg_color=13131a" alt="Top Languages" />
 
 </div>
 
@@ -246,12 +265,14 @@ Demonstrates expertise in administering and configuring the ServiceNow platform 
 
 ## Got a role in mind?
 
-I'm actively looking for full-time roles in **ML Engineering**, **Backend Development**, or **Data Science**. If you think I'd be a good fit — let's talk.
+I'm actively looking for full-time roles in **ML Engineering**, **Backend Development**, or **Data Science**. 
+
+If you think I'd be a good fit for your team — let's talk! 🚀
 
 </td>
 <td valign="middle" width="45%" align="center">
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=0c0c10)](https://www.linkedin.com/in/nersi-sai-venkata-sanjeev-reddy-a8b777291/)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=0c0c10)](https://www.linkedin.com/in/nersi-sai-venkata-sanjeev-reddy-a8b7772/)
 
 [![Drop a mail](https://img.shields.io/badge/Drop_a_mail-1a1a24?style=for-the-badge&logo=gmail&logoColor=f0eff5)](mailto:sanjeev.reddy2004@gmail.com)
 
@@ -264,5 +285,9 @@ I'm actively looking for full-time roles in **ML Engineering**, **Backend Develo
 ---
 
 <div align="center">
-<sub><code>sanjeev.reddy2004@gmail.com</code> &nbsp;·&nbsp; <code>Hyderabad, India</code></sub>
+
+**[sanjeev.reddy2004@gmail.com](mailto:sanjeev.reddy2004@gmail.com)** &nbsp;·&nbsp; **Hyderabad, India** 🇮🇳
+
+<sub>⭐ If you like my work, don't forget to star my repos!</sub>
+
 </div>
