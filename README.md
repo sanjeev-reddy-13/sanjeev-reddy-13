@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=100&lines=ML+Engineer+%7C+Backend+Dev+%7C+AI+Enthusiast;Building+ML-Powered+Intelligent+Systems;Data+Scientist+%7C+Problem+Solver"
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=100&lines=ML+Engineer+%7C+Backend+Dev+%7C+AI+Enthusiast;Building+ML-Powered+Intelligent+Systems;Data+Scientist+%7C+Problem+Solver">
 
 # 🚀 Nersi Sai Venkata Sanjeev *Reddy*
 
