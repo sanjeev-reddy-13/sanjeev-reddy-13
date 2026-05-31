@@ -49,13 +49,6 @@ CS graduate from Hyderabad who loves building ML-powered backend systems and dat
 </td>
 <td width="45%" valign="top">
 
-**CERTIFICATIONS**
-
-[![ServiceNow CSA](https://img.shields.io/badge/ServiceNow-Certified_System_Administrator-0d1117?style=for-the-badge&logo=servicenow&logoColor=62D84E&labelColor=13131a)](https://www.servicenow.com/)
-[![Verified](https://img.shields.io/badge/✓_Verified-13131a?style=flat-square&color=0d2c1e&labelColor=0d2c1e&logoColor=34d399)](https://www.servicenow.com/)
-
-<br>
-
 **INTERESTS**
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-13131a?style=flat-square&logoColor=white)
@@ -235,9 +228,9 @@ Demonstrates expertise in administering and configuring the ServiceNow platform 
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanjeev-reddy-13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=a0c4ff&icon_color=79c0ff&text_color=c9d1d9&bg_color=13131a" height="160" alt="Sanjeev's GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sanjeev-reddy-13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=a0c4ff&icon_color=79c0ff&text_color=c9d1d9&bg_color=13131a" height="180" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev-reddy-13&layout=compact&theme=tokyonight&hide_border=true&title_color=a0c4ff&text_color=c9d1d9&bg_color=13131a" height="160" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev-reddy-13&layout=compact&theme=tokyonight&hide_border=true&title_color=a0c4ff&text_color=c9d1d9&bg_color=13131a" height="180" alt="Top Languages"/>
 
 </div>
 
