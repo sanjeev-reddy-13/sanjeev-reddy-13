@@ -38,8 +38,7 @@ CS graduate passionate about building **ML-powered backend systems** and **data-
 B.Tech, Computer Science (AI & ML Specialization)
 
 **🟢 BUILDING**  
-AI/ML Projects & Backend APIs
-AI/ML FullStack web Applications
+AI/ML Projects & Backend Development(Rest APIs)
 
 **🔵 LEARNING**  
 Deep Learning · NLP · System Design
