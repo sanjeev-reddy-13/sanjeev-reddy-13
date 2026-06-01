@@ -9,7 +9,7 @@
 <div style="margin: 20px 0;">
 
 [![Open to work](https://img.shields.io/badge/🎯_Open_to_Work-34d399?style=for-the-badge&labelColor=0d1117&logoColor=34d399)](https://www.linkedin.com/in/nersi-sai-venkata-sanjeev-reddy-a8b7772/)
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nersi-sai-venkata-sanjeev-reddy-a8b7772/)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/nersi-sai-venkata-sanjeev-reddy-a8b7772/](https://www.linkedin.com/in/nersi-sai-venkata-sanjeev-reddy-a8b777291/))
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjeev.reddy2004@gmail.com)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-f0eff5?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://sanjeev-reddy-13.github.io/MyPortfolio_website)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-f0eff5?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/sanjeev-reddy-13)
