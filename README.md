@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=100&lines=ML+Engineer+%7C+Backend+Dev+%7C+AI+Enthusiast;Building+ML-Powered+Intelligent+Systems;Data+Scientist+%7C+Problem+Solver">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=100&lines=ML+Engineer+%7C+Backend+Dev+%7C+AI+Enthusiast;Building+ML-Powered+Solutions+with+Clean+Code">
 
 # Hi👋, I'm Sanjeev *Reddy*
 
@@ -29,7 +29,7 @@
 
 > *"Turning data into decisions and ideas into products."*
 
-CS graduate passionate about building **ML-powered backend systems** and **data-driven applications** that solve real-world problems. I transform messy datasets into clean, actionable insights and build scalable systems that actually matter.
+CS graduate passionate about building **ML-powered backend systems** and **data-driven applications** that solve real-world problems. I transform messy datasets into clean, actionable insights and build production-ready systems that scale.
 
 </div>
 <div style="padding: 20px; background: rgba(52,211,153,0.05); border-radius: 12px; border: 2px solid rgba(52,211,153,0.3);">
@@ -38,7 +38,7 @@ CS graduate passionate about building **ML-powered backend systems** and **data-
 B.Tech, Computer Science (AI & ML Specialization)
 
 **🟢 BUILDING**  
-AI/ML Projects & Backend Development(Rest APIs)
+AI/ML Projects & Backend APIs
 
 **🔵 LEARNING**  
 Deep Learning · NLP · System Design
@@ -60,7 +60,7 @@ Debug with `print()` — it's a lifestyle! 🐛
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; margin: 20px 0;">
 
 <!-- Languages Column -->
-<div style="padding: 25px; background: linear-gradient(180deg, rgba(196,181,253,0.1) 0%, rgba(167,139,250,0.05) 100%); border-radius: 12px; border-top: 3px solid #c4b5fd; border: 2px solid rgba(196,181,253,0.4);">
+<div style="padding: 25px; background: linear-gradient(180deg, rgba(196,181,253,0.1) 0%, rgba(167,139,250,0.05) 100%); border-radius: 12px; border-top: 3px solid #c4b5fd; border: 2px solid rgba(196,181,253,0.3);">
 
 ### 🔤 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -73,7 +73,7 @@ Debug with `print()` — it's a lifestyle! 🐛
 </div>
 
 <!-- AI/ML Column -->
-<div style="padding: 25px; background: linear-gradient(180deg, rgba(110,231,183,0.1) 0%, rgba(52,211,153,0.05) 100%); border-radius: 12px; border-top: 3px solid #6ee7b7; border: 2px solid rgba(110,231,183,0.4);">
+<div style="padding: 25px; background: linear-gradient(180deg, rgba(110,231,183,0.1) 0%, rgba(52,211,153,0.05) 100%); border-radius: 12px; border-top: 3px solid #6ee7b7; border: 2px solid rgba(110,231,183,0.3);">
 
 ### 🤖 AI/ML/Data
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -86,7 +86,7 @@ Debug with `print()` — it's a lifestyle! 🐛
 </div>
 
 <!-- Tools Column -->
-<div style="padding: 25px; background: linear-gradient(180deg, rgba(249,168,212,0.1) 0%, rgba(236,72,153,0.05) 100%); border-radius: 12px; border-top: 3px solid #f9a8d4; border: 2px solid rgba(249,168,212,0.4);">
+<div style="padding: 25px; background: linear-gradient(180deg, rgba(249,168,212,0.1) 0%, rgba(236,72,153,0.05) 100%); border-radius: 12px; border-top: 3px solid #f9a8d4; border: 2px solid rgba(249,168,212,0.3);">
 
 ### ⚙️ Tools & Platforms
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -110,71 +110,155 @@ Debug with `print()` — it's a lifestyle! 🐛
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 25px; margin: 20px 0;">
 
-<!-- Project 1 -->
-<div style="padding: 25px; background: linear-gradient(135deg, rgba(167,139,250,0.15) 0%, rgba(52,211,153,0.08) 100%); border-radius: 15px; border: 4px solid #a78bfa; box-shadow: 0 4px 15px rgba(167,139,250,0.2), inset 0 0 0 1px rgba(167,139,250,0.3); transition: all 0.3s ease;">
+<!-- Project 1: LexConnect -->
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(167,139,250,0.15) 0%, rgba(52,211,153,0.08) 100%); border-radius: 15px; border: 4px solid #a78bfa; box-shadow: 0 4px 15px rgba(167,139,250,0.2);">
 
 ### ⚖️ [LexConnect](https://github.com/sanjeev-reddy-13/LexConnect)
 
 _Seamlessly connect clients with legal professionals._
 
-**Backend-driven platform** powering professional-to-client matching, appointment scheduling, and service delivery.
+**Backend-driven platform** powering professional-to-client matching, appointment scheduling, and real-time messaging.
+
+**Core Modules:**
+- 🔐 User Authentication & Authorization (JWT)
+- 📋 Lawyer Profile & Case History Management
+- 📞 Hire Request System (Accept/Reject)
+- 💬 Real-time Chat with Socket.IO
+- ⭐ Review & Rating System
+- 📊 Dashboard Analytics
 
 **Tech Stack:**
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![Backend](https://img.shields.io/badge/Backend-FF6B6B?style=flat-square)
-- ![API](https://img.shields.io/badge/REST_API-4ECDC4?style=flat-square)
-- ![Database](https://img.shields.io/badge/MySQL-005C87?style=flat-square)
+- **Frontend:** React 18, React Router v6, Axios
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB + Mongoose
+- **Real-time:** Socket.IO (WebSockets)
+- **Auth:** JWT, bcrypt
+- **Styling:** Custom CSS
+
+**Key Features:**
+- Role-based access control (Client/Lawyer)
+- Real-time notifications & typing indicators
+- Advanced filtering & search
+- Persistent chat history
 
 </div>
 
-<!-- Project 2 -->
-<div style="padding: 25px; background: linear-gradient(135deg, rgba(52,211,153,0.15) 0%, rgba(110,231,183,0.08) 100%); border-radius: 15px; border: 4px solid #34d399; box-shadow: 0 4px 15px rgba(52,211,153,0.2), inset 0 0 0 1px rgba(52,211,153,0.3); transition: all 0.3s ease;">
+<!-- Project 2: Stock Market Prediction -->
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(52,211,153,0.15) 0%, rgba(110,231,183,0.08) 100%); border-radius: 15px; border: 4px solid #34d399; box-shadow: 0 4px 15px rgba(52,211,153,0.2);">
 
 ### 📈 [Stock Market Prediction](https://github.com/sanjeev-reddy-13/Stockmarket-Price-Prediction-with-sentimental-analysis)
 
 _Predict tomorrow's trends using AI today._
 
-Advanced ML model combining **sentiment analysis** with price forecasting for context-aware predictions.
+Advanced ML model combining **sentiment analysis** with price forecasting for context-aware stock predictions.
+
+**Core Modules:**
+- 📊 Data Collection & Preprocessing
+- 🔄 Time Series Data Normalization
+- 📰 Financial News Sentiment Analysis
+- 🧠 Deep Learning with LSTM
+- 📈 Feature Engineering & Selection
+- 📉 Model Training & Evaluation
+- 📊 Prediction & Visualization
 
 **Tech Stack:**
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![NLP](https://img.shields.io/badge/NLP-FF6B6B?style=flat-square)
-- ![ML](https://img.shields.io/badge/ML-4ECDC4?style=flat-square)
-- ![Analytics](https://img.shields.io/badge/Analytics-95E1D3?style=flat-square)
+- **Language:** Python
+- **Data Processing:** Pandas, NumPy
+- **ML Libraries:** Scikit-Learn, TensorFlow/Keras
+- **NLP:** NLTK, TextBlob
+- **Data Source:** yFinance
+- **Visualization:** Matplotlib, Seaborn
+- **Notebooks:** Jupyter
+
+**Key Features:**
+- LSTM neural network for time series forecasting
+- Sentiment scores from financial news
+- Evaluation metrics: MAE, MSE, RMSE, R²
+- Interactive visualizations
+- Historical vs predicted price comparison
 
 </div>
 
-<!-- Project 3 -->
-<div style="padding: 25px; background: linear-gradient(135deg, rgba(249,168,212,0.15) 0%, rgba(236,72,153,0.08) 100%); border-radius: 15px; border: 4px solid #f472b6; box-shadow: 0 4px 15px rgba(249,168,212,0.2), inset 0 0 0 1px rgba(249,168,212,0.3); transition: all 0.3s ease;">
+<!-- Project 3: RestaurantFinder -->
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(249,168,212,0.15) 0%, rgba(236,72,153,0.08) 100%); border-radius: 15px; border: 4px solid #f472b6; box-shadow: 0 4px 15px rgba(249,168,212,0.2);">
 
 ### 🍽️ [RestaurantFinder](https://github.com/sanjeev-reddy-13/RestaurantFinder)
 
 _Discover your next favorite meal in seconds._
 
-Interactive web app with **smart filtering**, geolocation, and real-time discovery. Perfect UX, zero friction.
+Full-stack restaurant discovery platform with **geolocation**, **image search**, and **advanced filtering**.
+
+**Core Modules:**
+- 🏠 Restaurant Listing & Pagination
+- 🔍 Advanced Search & Filtering
+  - By Country
+  - By Cuisines
+  - By Average Spend
+- 📍 Geolocation Search (3km radius)
+- 🖼️ Image-based Food Search
+- 📋 Restaurant Detail Pages
+- ⭐ Rating & Reviews System
 
 **Tech Stack:**
-- ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- ![API](https://img.shields.io/badge/Geolocation-4ECDC4?style=flat-square)
+- **Frontend:** React, HTML5, CSS3, JavaScript
+- **Image Recognition:** TensorFlow.js / Image Upload API
+- **Location Services:** Geolocation API
+- **Backend:** REST API
+- **Database:** MongoDB/SQL
+- **Styling:** Custom CSS, Responsive Design
+
+**Key Features:**
+- Smart filtering with multiple criteria
+- Real-time geolocation search
+- Food image recognition
+- Responsive UI/UX
+- Pagination support
+- Restaurant categorization
 
 </div>
 
-<!-- Project 4 -->
-<div style="padding: 25px; background: linear-gradient(135deg, rgba(167,139,250,0.08) 0%, rgba(249,168,212,0.15) 100%); border-radius: 15px; border: 4px solid #ec4899; box-shadow: 0 4px 15px rgba(236,72,153,0.2), inset 0 0 0 1px rgba(236,72,153,0.3); transition: all 0.3s ease;">
+<!-- Project 4: Flight Price Prediction -->
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(167,139,250,0.08) 0%, rgba(249,168,212,0.15) 100%); border-radius: 15px; border: 4px solid #ec4899; box-shadow: 0 4px 15px rgba(236,72,153,0.2);">
 
 ### ✈️ [Flight Price Prediction](https://github.com/sanjeev-reddy-13/Flight_price_prediction)
 
 _Book smarter, travel cheaper._
 
-ML-powered **price forecasting** using advanced feature engineering to find the optimal booking time.
+ML-powered **price forecasting** using advanced feature engineering to find optimal booking times.
+
+**Core Modules:**
+- 📊 Flight Data Collection & EDA
+- 🔄 Data Cleaning & Preprocessing
+- 🏗️ Advanced Feature Engineering
+  - Temporal features
+  - Seasonality patterns
+  - Airline-specific metrics
+- 🤖 Regression Model Training
+  - Multiple algorithms comparison
+  - Hyperparameter tuning
+- 📈 Price Prediction & Recommendations
+- 📊 Model Performance Evaluation
+- 📉 Visualization & Insights
 
 **Tech Stack:**
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-- ![Feature_Eng](https://img.shields.io/badge/Feature_Engineering-FF6B6B?style=flat-square)
-- ![Regression](https://img.shields.io/badge/Regression-4ECDC4?style=flat-square)
+- **Language:** Python
+- **Data Analysis:** Pandas, NumPy
+- **ML Algorithms:** Scikit-Learn
+- **Models Used:**
+  - Linear Regression
+  - Random Forest
+  - Gradient Boosting
+  - XGBoost
+- **Visualization:** Matplotlib, Seaborn
+- **Notebooks:** Jupyter
+
+**Key Features:**
+- Multi-algorithm comparison
+- Optimal booking time prediction
+- Feature importance analysis
+- Seasonal trend analysis
+- Performance metrics (R², RMSE, MAE)
+- Actionable booking recommendations
 
 </div>
 
@@ -268,7 +352,7 @@ Demonstrated expertise in administering ServiceNow platform at enterprise scale.
 
 ---
 
-<div style="padding: 40px 30px; background: linear-gradient(135deg, rgba(167,139,250,0.15) 0%, rgba(52,211,153,0.1) 100%); border-radius: 18px; border: 2px solid rgba(167,139,250,0.4); text-align: center; margin: 30px 0;">
+<div style="padding: 40px 30px; background: linear-gradient(135deg, rgba(167,139,250,0.15) 0%, rgba(52,211,153,0.1) 100%); border-radius: 18px; border: 2px solid rgba(167,139,250,0.4); text-align: center;">
 
 ## 🚀 Let's Connect & Collaborate
 
