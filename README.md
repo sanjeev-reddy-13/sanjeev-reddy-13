@@ -39,6 +39,7 @@ B.Tech, Computer Science (AI & ML Specialization)
 
 **🟢 BUILDING**  
 AI/ML Projects & Backend APIs
+AI/ML FullStack web Applications
 
 **🔵 LEARNING**  
 Deep Learning · NLP · System Design
