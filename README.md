@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=100&lines=ML+Engineer+%7C+Backend+Dev+%7C+AI+Enthusiast;Building+ML-Powered+Solutions+with+Clean+Code">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=100&lines=ML+Engineer+%7C+Backend+Dev+%7C+AI+Enthusiast;Building+ML-Powered+Solutions;Data+%3E+Decisions" alt="Typing SVG" />
 
 # Hi👋, I'm Sanjeev *Reddy*
 
@@ -29,7 +29,7 @@
 
 > *"Turning data into decisions and ideas into products."*
 
-CS graduate passionate about building **ML-powered backend systems** and **data-driven applications** that solve real-world problems. I transform messy datasets into clean, actionable insights and build production-ready systems that scale.
+CS graduate passionate about building **ML-powered backend systems** and **data-driven applications** that solve real-world problems. I transform messy datasets into clean, actionable insights and build scalable systems that deliver impact.
 
 </div>
 <div style="padding: 20px; background: rgba(52,211,153,0.05); border-radius: 12px; border: 2px solid rgba(52,211,153,0.3);">
@@ -108,12 +108,9 @@ Debug with `print()` — it's a lifestyle! 🐛
 
 ## 🎯 Featured Projects
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 25px; margin: 20px 0;">
-
-<!-- Project 1: LexConnect -->
-<div style="padding: 25px; background: linear-gradient(135deg, rgba(167,139,250,0.15) 0%, rgba(52,211,153,0.08) 100%); border-radius: 15px; border: 4px solid #a78bfa; box-shadow: 0 4px 15px rgba(167,139,250,0.2);">
-
 ### ⚖️ [LexConnect](https://github.com/sanjeev-reddy-13/LexConnect)
+
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(167,139,250,0.15) 0%, rgba(52,211,153,0.08) 100%); border-radius: 15px; border: 4px solid #a78bfa; box-shadow: 0 4px 15px rgba(167,139,250,0.2); margin-bottom: 25px;">
 
 _Seamlessly connect clients with legal professionals._
 
@@ -143,10 +140,11 @@ _Seamlessly connect clients with legal professionals._
 
 </div>
 
-<!-- Project 2: Stock Market Prediction -->
-<div style="padding: 25px; background: linear-gradient(135deg, rgba(52,211,153,0.15) 0%, rgba(110,231,183,0.08) 100%); border-radius: 15px; border: 4px solid #34d399; box-shadow: 0 4px 15px rgba(52,211,153,0.2);">
+---
 
 ### 📈 [Stock Market Prediction](https://github.com/sanjeev-reddy-13/Stockmarket-Price-Prediction-with-sentimental-analysis)
+
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(52,211,153,0.15) 0%, rgba(110,231,183,0.08) 100%); border-radius: 15px; border: 4px solid #34d399; box-shadow: 0 4px 15px rgba(52,211,153,0.2); margin-bottom: 25px;">
 
 _Predict tomorrow's trends using AI today._
 
@@ -179,10 +177,11 @@ Advanced ML model combining **sentiment analysis** with price forecasting for co
 
 </div>
 
-<!-- Project 3: RestaurantFinder -->
-<div style="padding: 25px; background: linear-gradient(135deg, rgba(249,168,212,0.15) 0%, rgba(236,72,153,0.08) 100%); border-radius: 15px; border: 4px solid #f472b6; box-shadow: 0 4px 15px rgba(249,168,212,0.2);">
+---
 
 ### 🍽️ [RestaurantFinder](https://github.com/sanjeev-reddy-13/RestaurantFinder)
+
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(249,168,212,0.15) 0%, rgba(236,72,153,0.08) 100%); border-radius: 15px; border: 4px solid #f472b6; box-shadow: 0 4px 15px rgba(249,168,212,0.2); margin-bottom: 25px;">
 
 _Discover your next favorite meal in seconds._
 
@@ -217,10 +216,11 @@ Full-stack restaurant discovery platform with **geolocation**, **image search**,
 
 </div>
 
-<!-- Project 4: Flight Price Prediction -->
-<div style="padding: 25px; background: linear-gradient(135deg, rgba(167,139,250,0.08) 0%, rgba(249,168,212,0.15) 100%); border-radius: 15px; border: 4px solid #ec4899; box-shadow: 0 4px 15px rgba(236,72,153,0.2);">
+---
 
 ### ✈️ [Flight Price Prediction](https://github.com/sanjeev-reddy-13/Flight_price_prediction)
+
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(167,139,250,0.08) 0%, rgba(249,168,212,0.15) 100%); border-radius: 15px; border: 4px solid #ec4899; box-shadow: 0 4px 15px rgba(236,72,153,0.2); margin-bottom: 25px;">
 
 _Book smarter, travel cheaper._
 
@@ -259,8 +259,6 @@ ML-powered **price forecasting** using advanced feature engineering to find opti
 - Seasonal trend analysis
 - Performance metrics (R², RMSE, MAE)
 - Actionable booking recommendations
-
-</div>
 
 </div>
 
