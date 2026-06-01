@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=100&lines=ML+Engineer+%7C+Backend+Dev+%7C+AI+Enthusiast;Building+ML-Powered+Solutions;Data+%3E+Decisions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=100&lines=ML+Engineer+%7C+Backend+Dev+%7C+AI+Enthusiast;Building+ML-Powered+Backend+Systems;Open+to+Collaboration+%26+Opportunities" alt="Typing SVG" />
 
 # Hi👋, I'm Sanjeev *Reddy*
 
@@ -8,8 +8,8 @@
 
 <div style="margin: 20px 0;">
 
-[![Open to work](https://img.shields.io/badge/🎯_Open_to_Work-34d399?style=for-the-badge&labelColor=0d1117&logoColor=34d399)](https://www.linkedin.com/in/nersi-sai-venkata-sanjeev-reddy-a8b7772/)
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/nersi-sai-venkata-sanjeev-reddy-a8b7772/](https://www.linkedin.com/in/nersi-sai-venkata-sanjeev-reddy-a8b777291/))
+[![Open to work](https://img.shields.io/badge/🎯_Open_to_Work-34d399?style=for-the-badge&labelColor=0d1117&logoColor=34d399)](https://www.linkedin.com/in/nersi-sai-venkata-sanjeev-reddy-a8b777291/)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nersi-sai-venkata-sanjeev-reddy-a8b777291/)
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjeev.reddy2004@gmail.com)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-f0eff5?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://sanjeev-reddy-13.github.io/MyPortfolio_website)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-f0eff5?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/sanjeev-reddy-13)
@@ -29,7 +29,7 @@
 
 > *"Turning data into decisions and ideas into products."*
 
-CS graduate passionate about building **ML-powered backend systems** and **data-driven applications** that solve real-world problems. I transform messy datasets into clean, actionable insights and build scalable systems that deliver impact.
+CS graduate passionate about building **ML-powered backend systems** and **data-driven applications** that solve real-world problems. I transform messy datasets into clean, actionable insights and build scalable systems that ship fast.
 
 </div>
 <div style="padding: 20px; background: rgba(52,211,153,0.05); border-radius: 12px; border: 2px solid rgba(52,211,153,0.3);">
@@ -110,7 +110,7 @@ Debug with `print()` — it's a lifestyle! 🐛
 
 ### ⚖️ [LexConnect](https://github.com/sanjeev-reddy-13/LexConnect)
 
-<div style="padding: 25px; background: linear-gradient(135deg, rgba(167,139,250,0.15) 0%, rgba(52,211,153,0.08) 100%); border-radius: 15px; border: 4px solid #a78bfa; box-shadow: 0 4px 15px rgba(167,139,250,0.2); margin-bottom: 25px;">
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(167,139,250,0.15) 0%, rgba(52,211,153,0.08) 100%); border-radius: 15px; border: 4px solid #a78bfa; box-shadow: 0 4px 15px rgba(167,139,250,0.2);">
 
 _Seamlessly connect clients with legal professionals._
 
@@ -144,7 +144,7 @@ _Seamlessly connect clients with legal professionals._
 
 ### 📈 [Stock Market Prediction](https://github.com/sanjeev-reddy-13/Stockmarket-Price-Prediction-with-sentimental-analysis)
 
-<div style="padding: 25px; background: linear-gradient(135deg, rgba(52,211,153,0.15) 0%, rgba(110,231,183,0.08) 100%); border-radius: 15px; border: 4px solid #34d399; box-shadow: 0 4px 15px rgba(52,211,153,0.2); margin-bottom: 25px;">
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(52,211,153,0.15) 0%, rgba(110,231,183,0.08) 100%); border-radius: 15px; border: 4px solid #34d399; box-shadow: 0 4px 15px rgba(52,211,153,0.2);">
 
 _Predict tomorrow's trends using AI today._
 
@@ -181,7 +181,7 @@ Advanced ML model combining **sentiment analysis** with price forecasting for co
 
 ### 🍽️ [RestaurantFinder](https://github.com/sanjeev-reddy-13/RestaurantFinder)
 
-<div style="padding: 25px; background: linear-gradient(135deg, rgba(249,168,212,0.15) 0%, rgba(236,72,153,0.08) 100%); border-radius: 15px; border: 4px solid #f472b6; box-shadow: 0 4px 15px rgba(249,168,212,0.2); margin-bottom: 25px;">
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(249,168,212,0.15) 0%, rgba(236,72,153,0.08) 100%); border-radius: 15px; border: 4px solid #f472b6; box-shadow: 0 4px 15px rgba(249,168,212,0.2);">
 
 _Discover your next favorite meal in seconds._
 
@@ -220,7 +220,7 @@ Full-stack restaurant discovery platform with **geolocation**, **image search**,
 
 ### ✈️ [Flight Price Prediction](https://github.com/sanjeev-reddy-13/Flight_price_prediction)
 
-<div style="padding: 25px; background: linear-gradient(135deg, rgba(167,139,250,0.08) 0%, rgba(249,168,212,0.15) 100%); border-radius: 15px; border: 4px solid #ec4899; box-shadow: 0 4px 15px rgba(236,72,153,0.2); margin-bottom: 25px;">
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(167,139,250,0.08) 0%, rgba(249,168,212,0.15) 100%); border-radius: 15px; border: 4px solid #ec4899; box-shadow: 0 4px 15px rgba(236,72,153,0.2);">
 
 _Book smarter, travel cheaper._
 
@@ -362,7 +362,7 @@ If you think I'd be a great fit for your team — let's create something amazing
 
 <div style="margin: 25px 0; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
 
-[![Connect on LinkedIn](https://img.shields.io/badge/🤝_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nersi-sai-venkata-sanjeev-reddy-a8b7772/)
+[![Connect on LinkedIn](https://img.shields.io/badge/🤝_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nersi-sai-venkata-sanjeev-reddy-a8b777291/)
 
 [![Drop a Mail](https://img.shields.io/badge/📧_Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjeev.reddy2004@gmail.com)
 
