@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=100&lines=ML+Engineer+%7C+Backend+Dev+%7C+AI+Enthusiast;Building+ML-Powered+Backend+Systems;Open+to+Collaboration+%26+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=100&lines=ML+Engineer+%7C+Backend+Dev+%7C+Data+Analyst;Building+ML-Powered+Solutions+%26+Data-Driven+Insights" alt="Typing SVG" />
 
 # Hi👋, I'm Sanjeev *Reddy*
 
@@ -8,7 +8,7 @@
 
 <div style="margin: 20px 0;">
 
-[![Open to work](https://img.shields.io/badge/🎯_Open_to_Work-34d399?style=for-the-badge&labelColor=0d1117&logoColor=34d399)](https://www.linkedin.com/in/nersi-sai-venkata-sanjeev-reddy-a8b777291/)
+[![Open to work](https://img.shields.io/badge/🎯_Open_to_Work-34d399?style=for-the-badge&labelColor=0d1117&logoColor=34d399)](https://www.linkedin.com/in/nersi-sai-venkata-sanjeev-reddy-a8b77729/)
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nersi-sai-venkata-sanjeev-reddy-a8b777291/)
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjeev.reddy2004@gmail.com)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-f0eff5?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://sanjeev-reddy-13.github.io/MyPortfolio_website)
@@ -29,7 +29,7 @@
 
 > *"Turning data into decisions and ideas into products."*
 
-CS graduate passionate about building **ML-powered backend systems** and **data-driven applications** that solve real-world problems. I transform messy datasets into clean, actionable insights and build scalable systems that ship fast.
+CS graduate passionate about building **ML-powered backend systems**, **data-driven applications**, and **analytical solutions** that solve real-world problems. I transform messy datasets into clean, actionable insights and deploy intelligent systems at scale.
 
 </div>
 <div style="padding: 20px; background: rgba(52,211,153,0.05); border-radius: 12px; border: 2px solid rgba(52,211,153,0.3);">
@@ -38,10 +38,10 @@ CS graduate passionate about building **ML-powered backend systems** and **data-
 B.Tech, Computer Science (AI & ML Specialization)
 
 **🟢 BUILDING**  
-AI/ML Projects & Backend APIs
+AI/ML Projects, Data Analytics & Backend APIs
 
 **🔵 LEARNING**  
-Deep Learning · NLP · System Design
+Deep Learning · NLP · System Design · Advanced Analytics
 
 **🩷 FUN FACT**  
 Debug with `print()` — it's a lifestyle! 🐛
@@ -64,24 +64,24 @@ Debug with `print()` — it's a lifestyle! 🐛
 
 ### 🔤 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 </div>
 
 <!-- AI/ML Column -->
 <div style="padding: 25px; background: linear-gradient(180deg, rgba(110,231,183,0.1) 0%, rgba(52,211,153,0.05) 100%); border-radius: 12px; border-top: 3px solid #6ee7b7; border: 2px solid rgba(110,231,183,0.3);">
 
-### 🤖 AI/ML/Data
+### 🤖 AI/ML/Data Science
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 
 </div>
 
@@ -104,13 +104,118 @@ Debug with `print()` — it's a lifestyle! 🐛
 
 ---
 
+<div style="padding: 30px; background: linear-gradient(135deg, rgba(236,72,153,0.1) 0%, rgba(249,168,212,0.1) 100%); border-radius: 15px; border: 2px solid rgba(236,72,153,0.4); margin: 30px 0;">
+
+## 📊 Data Analytics & Business Intelligence Expertise
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
+
+<!-- Data Collection & ETL -->
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(167,139,250,0.1) 0%, rgba(196,181,253,0.08) 100%); border-radius: 12px; border-left: 4px solid #a78bfa; border: 2px solid rgba(167,139,250,0.3);">
+
+### 📥 Data Collection, Cleaning & ETL
+- **Data Collection:** Web scraping, API integration, data sourcing
+- **ETL Pipelines:** End-to-end data processing workflows
+- **Data Cleaning:** Handling missing values, duplicates, inconsistencies
+- **Data Preprocessing:** Feature scaling, normalization, encoding
+- **Data Transformation:** Data wrangling, reshaping, aggregation
+- **Data Validation:** Quality checks, error detection, data profiling
+- **Data Integration:** Multi-source data consolidation
+
+</div>
+
+<!-- Data Analysis & Visualization -->
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(52,211,153,0.1) 0%, rgba(110,231,183,0.08) 100%); border-radius: 12px; border-left: 4px solid #34d399; border: 2px solid rgba(52,211,153,0.3);">
+
+### 📈 Data Analysis & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+- **Exploratory Data Analysis (EDA):** Uncovering patterns & insights
+- **Statistical Analysis:** Hypothesis testing, correlation analysis, distributions
+- **Data Visualization:** Interactive dashboards, compelling visual storytelling
+- **Business Analytics:** KPIs, metrics, trend analysis
+
+</div>
+
+<!-- Statistical Modeling & ML -->
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(249,168,212,0.1) 0%, rgba(236,72,153,0.08) 100%); border-radius: 12px; border-left: 4px solid #f472b6; border: 2px solid rgba(249,168,212,0.3);">
+
+### 🧠 Statistical Modeling & Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+- **Regression Analysis:** Linear, polynomial, advanced regression techniques
+- **Classification Models:** Supervised learning, class prediction
+- **Time-Series Analysis:** Forecasting, trend decomposition, seasonality
+- **Feature Engineering:** Feature selection, extraction, importance analysis
+- **Interpretability:** SHAP values, feature importance, model explainability
+- **Model Evaluation:** Cross-validation, hyperparameter tuning, performance metrics
+
+</div>
+
+<!-- Databases & Cloud -->
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(110,231,183,0.1) 0%, rgba(52,211,153,0.08) 100%); border-radius: 12px; border-left: 4px solid #6ee7b7; border: 2px solid rgba(110,231,183,0.3);">
+
+### 💾 Databases, Cloud & Development
+![MySQL](https://img.shields.io/badge/MySQL-005C87?style=for-the-badge&logo=mysql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+- **Database Management:** SQL queries, schema design, optimization
+- **Cloud Platforms:** GCP BigQuery, AWS (IAM, S3, EC2)
+- **Version Control:** Git, GitHub collaboration
+- **Development Tools:** VS Code, Jupyter notebooks, IDE proficiency
+
+</div>
+
+<!-- AI & Advanced Analytics -->
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(167,139,250,0.1) 0%, rgba(196,181,253,0.08) 100%); border-radius: 12px; border-left: 4px solid #c4b5fd; border: 2px solid rgba(167,139,250,0.3);">
+
+### 🚀 AI & Advanced Analytics
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-FF3434?style=for-the-badge&logo=facebook&logoColor=white)
+
+- **NLP & Text Analytics:** Natural Language Processing, text classification
+- **Large Language Models (LLMs):** Fine-tuning, prompt engineering, applications
+- **Retrieval-Augmented Generation (RAG):** FAISS, BM25, semantic search
+- **Deep Learning:** Neural networks, RNNs, LSTMs, transformers
+- **Advanced Model Techniques:** Ensemble methods, semi-supervised learning
+
+</div>
+
+<!-- Soft Skills -->
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(236,72,153,0.1) 0%, rgba(249,168,212,0.08) 100%); border-radius: 12px; border-left: 4px solid #ec4899; border: 2px solid rgba(236,72,153,0.3);">
+
+### 💼 Soft Skills & Business Acumen
+- **Cross-Functional Collaboration:** Working with stakeholders, teams, executives
+- **Strategic Thinking:** Business problem-solving, long-term planning
+- **Analytical Reasoning:** Critical analysis, root cause identification
+- **Data Storytelling:** Communicating insights to non-technical audiences
+- **Problem Solving:** Translating business problems into analytical solutions
+- **Presentation Skills:** Creating compelling narratives from data insights
+
+</div>
+
+</div>
+
+</div>
+
+---
+
 <div style="padding: 30px; background: linear-gradient(135deg, rgba(167,139,250,0.1) 0%, rgba(249,168,212,0.1) 100%); border-radius: 15px; border: 2px solid rgba(167,139,250,0.4); margin: 30px 0;">
 
 ## 🎯 Featured Projects
 
 ### ⚖️ [LexConnect](https://github.com/sanjeev-reddy-13/LexConnect)
 
-<div style="padding: 25px; background: linear-gradient(135deg, rgba(167,139,250,0.15) 0%, rgba(52,211,153,0.08) 100%); border-radius: 15px; border: 4px solid #a78bfa; box-shadow: 0 4px 15px rgba(167,139,250,0.2);">
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(167,139,250,0.15) 0%, rgba(52,211,153,0.08) 100%); border-radius: 15px; border: 4px solid #a78bfa; box-shadow: 0 4px 15px rgba(167,139,250,0.1);">
 
 _Seamlessly connect clients with legal professionals._
 
@@ -144,7 +249,7 @@ _Seamlessly connect clients with legal professionals._
 
 ### 📈 [Stock Market Prediction](https://github.com/sanjeev-reddy-13/Stockmarket-Price-Prediction-with-sentimental-analysis)
 
-<div style="padding: 25px; background: linear-gradient(135deg, rgba(52,211,153,0.15) 0%, rgba(110,231,183,0.08) 100%); border-radius: 15px; border: 4px solid #34d399; box-shadow: 0 4px 15px rgba(52,211,153,0.2);">
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(52,211,153,0.15) 0%, rgba(110,231,183,0.08) 100%); border-radius: 15px; border: 4px solid #34d399; box-shadow: 0 4px 15px rgba(52,211,153,0.1);">
 
 _Predict tomorrow's trends using AI today._
 
@@ -181,7 +286,7 @@ Advanced ML model combining **sentiment analysis** with price forecasting for co
 
 ### 🍽️ [RestaurantFinder](https://github.com/sanjeev-reddy-13/RestaurantFinder)
 
-<div style="padding: 25px; background: linear-gradient(135deg, rgba(249,168,212,0.15) 0%, rgba(236,72,153,0.08) 100%); border-radius: 15px; border: 4px solid #f472b6; box-shadow: 0 4px 15px rgba(249,168,212,0.2);">
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(249,168,212,0.15) 0%, rgba(236,72,153,0.08) 100%); border-radius: 15px; border: 4px solid #f472b6; box-shadow: 0 4px 15px rgba(249,168,212,0.1);">
 
 _Discover your next favorite meal in seconds._
 
@@ -220,7 +325,7 @@ Full-stack restaurant discovery platform with **geolocation**, **image search**,
 
 ### ✈️ [Flight Price Prediction](https://github.com/sanjeev-reddy-13/Flight_price_prediction)
 
-<div style="padding: 25px; background: linear-gradient(135deg, rgba(167,139,250,0.08) 0%, rgba(249,168,212,0.15) 100%); border-radius: 15px; border: 4px solid #ec4899; box-shadow: 0 4px 15px rgba(236,72,153,0.2);">
+<div style="padding: 25px; background: linear-gradient(135deg, rgba(167,139,250,0.08) 0%, rgba(249,168,212,0.15) 100%); border-radius: 15px; border: 4px solid #ec4899; box-shadow: 0 4px 15px rgba(249,168,212,0.1);">
 
 _Book smarter, travel cheaper._
 
@@ -270,7 +375,7 @@ ML-powered **price forecasting** using advanced feature engineering to find opti
 
 ## 🏆 Certifications & Achievements
 
-<div style="display: grid; grid-template-columns: auto 1fr; gap: 25px; align-items: center; padding: 20px; background: rgba(255,255,255,0.02); border-radius: 12px; border: 2px solid rgba(167,139,250,0.3);">
+<div style="display: grid; grid-template-columns: auto 1fr; gap: 25px; align-items: center; padding: 20px; background: rgba(255,255,255,0.02); border-radius: 12px; border: 2px solid rgba(167,139,250,0.2);">
 
 <div style="text-align: center;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/ServiceNow_logo.svg" width="85" alt="ServiceNow Logo" style="filter: brightness(1.1);"/>
@@ -336,13 +441,13 @@ Demonstrated expertise in administering ServiceNow platform at enterprise scale.
 
 <div align="center" style="margin: 30px 0; padding: 20px; background: rgba(167,139,250,0.05); border-radius: 12px; border: 2px solid rgba(167,139,250,0.3);">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjeev-reddy-13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=a0c4ff&text_color=c9d1d9&bg_color=13111c)](https://github.com/sanjeev-reddy-13)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjeev-reddy-13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=a0c4ff&text_color=c9d1d9&bg_color=1320136e)](https://github.com/sanjeev-reddy-13)
 
 </div>
 
 <div align="center" style="padding: 20px; background: rgba(52,211,153,0.05); border-radius: 12px; border: 2px solid rgba(52,211,153,0.3);">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev-reddy-13&layout=compact&theme=tokyonight&hide_border=true&title_color=a0c4ff&text_color=c9d1d9&bg_color=13111c)](https://github.com/sanjeev-reddy-13)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev-reddy-13&layout=compact&theme=tokyonight&hide_border=true&title_color=a0c4ff&text_color=c9d1d9&bg_color=1320136e)](https://github.com/sanjeev-reddy-13)
 
 </div>
 
@@ -356,13 +461,13 @@ Demonstrated expertise in administering ServiceNow platform at enterprise scale.
 
 ### 🎯 Available for Full-Time Roles
 
-I'm actively seeking positions in **Machine Learning Engineering**, **Backend Development**, or **Data Science**.
+I'm actively seeking positions in **Machine Learning Engineering**, **Data Science**, **Data Analytics**, or **Backend Development**.
 
 If you think I'd be a great fit for your team — let's create something amazing together! 🚀
 
 <div style="margin: 25px 0; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
 
-[![Connect on LinkedIn](https://img.shields.io/badge/🤝_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nersi-sai-venkata-sanjeev-reddy-a8b777291/)
+[![Connect on LinkedIn](https://img.shields.io/badge/🤝_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nersi-sai-venkata-sanjeev-reddy-a8b77729/)
 
 [![Drop a Mail](https://img.shields.io/badge/📧_Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjeev.reddy2004@gmail.com)
 
